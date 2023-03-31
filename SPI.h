@@ -1,0 +1,1 @@
+#define SPI_MODE 1 
