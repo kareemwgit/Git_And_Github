@@ -1,8 +1,0 @@
-
-{
-
-
-uasrt driver 
-  uart 0 
-  uart 1
-}
